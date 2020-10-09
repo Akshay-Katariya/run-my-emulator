@@ -33,4 +33,6 @@ Launch Command Prompt and add these directories to your environment **PATH** var
     PATH= %PATH%;C:\Users\User\AppData\Local\Android\Sdk\emulator
     PATH= %PATH%;C:\Users\User\AppData\Local\Android\Sdk\tools\bin
 
+
+#### Screenshot
 ![alt pic](https://github.com/Akshay-Katariya/run-my-emulator/blob/main/screenshot.png)
