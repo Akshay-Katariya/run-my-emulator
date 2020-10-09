@@ -18,7 +18,7 @@ read varname
 
 if [[ "$varname" -lt "$ALL_EMULATORS_length"  && "$varname" -ge 0 ]]
 then
-  echo "\nStarting Simulator for you... 😃"
+  echo "\nStarting Emulator for you... 😃"
   echo "\n🔴 Closing the terminal will close your Emulator 🔴"
   run_avd = `emulator -avd ${ALL_EMULATORS[varname]}`
 else
