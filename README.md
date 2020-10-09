@@ -34,4 +34,4 @@ Launch Command Prompt and add these directories to your environment **PATH** var
     PATH= %PATH%;C:\Users\User\AppData\Local\Android\Sdk\tools\bin
 
 
-![alt pic](./Screenshot 2020-10-09 at 5.30.35 PM.png)
+![alt pic](./Screenshot.png)
