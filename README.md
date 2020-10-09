@@ -11,6 +11,8 @@ OR
 
 Make sure you have environment variable set up before using above command
 
+<hr/>
+
 #### Configure the ANDROID_HOME environment variable (MacOS)
 
 Add the following lines to your  `$HOME/.bash_profile`  or  `$HOME/.bashrc`  (if you are using  `zsh`  then  `~/.zprofile`  or  `~/.zshrc`) config file:
