@@ -1,14 +1,20 @@
+
 # Simple command line utility to run Android emulator
+
+Have you created multiple simulators? 
+
+Do you open Android Studio to run your desired simulator? 
+
+Do I have a solution now ✅ 💯﹪
 
 #### Running the script
 
 Just clone the repo and place the script wherever you like!
 
-
     sh run.sh
 
-Use [gitbash](https://git-scm.com/download/win) to execute bash file on windows   
-OR
+Use [gitbash](https://git-scm.com/download/win) to execute bash file on windows    
+OR.
 `bash run.sh //inside command prompt`
 
 
